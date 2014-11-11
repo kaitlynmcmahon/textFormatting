@@ -7,28 +7,16 @@
 <link rel="stylesheet" href="style.css">
 <style>
 #tabContainer {
-	width: 35%;
-	padding-top: 1em;
+
 }
+
 #tabContainer a:hover {
-}
-#tabContainer a {
-	display: inline-block;
-	width: 20%;
-	color: yellow;
-	background-color: darkblue;
-	text-decoration: none;
-	border-top-left-radius: 2em;
-	border-top-right-radius: 2em;
-	padding: .25em;
-	padding-top: .5em;
-	margin: .15em;
+
 }
 </style>
 </head>
 <body>
 <h1>Tabs</h1>
-
 <div id="intro" class="instructions">
 I've included below all the HTML you would need to create a set of links displayed as "tabs." To create the tab appearance as shown in the screenshot below, follow these steps:
 	<ol>

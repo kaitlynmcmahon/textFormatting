@@ -6,51 +6,7 @@
 <link href='http://fonts.googleapis.com/css?family=Alegreya' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="style.css">
 <style>
-#eyeChart {
-	width: 13%;
-	margin-left: 5%;
-}
-.chartLine {
-	text-align: center;
-	margin: 0em;
-	line-height: 1em;
-}
-#topLine {
-	font-size: 8em;
-}
-#secondLine {
-	font-size: 5em;
-}
-#thirdLine {
-	font-size: 3.5em;
-	word-spacing: .25em;
-}
-#fourthLine {
-	font-size: 2.5em;
-	word-spacing: .25em;
-}
-#fifthLine {
-	font-size: 2em;
-	word-spacing: .2em;
-}
-#sixthLine {
-	font-size: 1.5em;
-	word-spacing: .27em;
-	border-bottom: solid 8px;
-	border-color: green;
-	margin-bottom: .25em;
-}
-#seventhLine {
-	font-size: 1.2em;
-	word-spacing: .25em;
-	padding-bottom: .5em;
-}
-#eighththLine {
-	font-size: 1em;
-	word-spacing: .15em;
-	border-bottom: solid 8px;
-	border-color: red;
-}
+
 </style>
 </head>
 <body>

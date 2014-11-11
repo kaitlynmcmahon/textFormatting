@@ -6,22 +6,6 @@
 <link href='http://fonts.googleapis.com/css?family=Alegreya' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="style.css">
 <style>
-#essay p {
-	margin: 0em;
-	text-indent: 3em;
-	line-height: 2.5em;
-}
-#essay {
-	width: 75%;
-	margin-left: 16%;
-	margin-right: 25%;
-}
-#worksCited {
-	width: 75%;
-	margin-left: 18.5%;
-	margin-right: 25%;
-	text-indent: -2em;
-}
 
 </style>
 </head>
